@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+/* APPROVED leave */
+.leave-approved .mat-calendar-body-cell-content {
+  background-color: rgba(141, 217, 144, 0.2) !important; /* Low opacity background */
+opacity: 1; /* Reset to full opacity */
+color: #8dd990 !important;
+border-color: #8dd990;
+border-radius: 10%;
+
+}
+
+
+
+/* PENDING leave */
+.leave-rejected .mat-calendar-body-cell-content {
+ /* Original color: #d5776c */
+background-color: rgba(213, 119, 108, 0.2) !important;
+color: #d5776c !important;
+border-color: #d5776c;
+opacity: 1;
+border-radius: 10%;
+
+}

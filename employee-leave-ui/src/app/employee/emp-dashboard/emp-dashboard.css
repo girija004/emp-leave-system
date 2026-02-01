@@ -1,0 +1,120 @@
+
+.container {
+  height: 100vh;
+}
+
+mat-sidenav {
+  width: 300px;
+  background-color: #a5b0bf;
+  color: #ffffff;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.profile-icon {
+  font-size: 48px;
+  color: #1f2937;
+}
+
+.profile-name {
+  margin-top: 6px;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+
+.logo {
+  padding: 16px;
+  font-size: 18px;
+  font-weight: 600;
+  border-bottom: 1px solid #374151;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+mat-nav-list a {
+  
+  border-radius: 8px;
+  color: #1f2937;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+
+mat-nav-list a mat-icon {
+  margin-right: 10px;
+  color: #374151;
+}
+
+
+mat-nav-list a:hover {
+  background-color: #8b9bb0;
+}
+
+mat-nav-list a.active {
+  background-color: #e3f2fd;
+  color: #1976d2;
+  font-weight: 400;
+}
+
+mat-nav-list a.active mat-icon {
+  color: #1976d2;
+}
+
+
+mat-toolbar {
+  background: #ffffff;
+  color: #111827;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+
+.cards {
+  padding: 20px;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.leave-card {
+  width: 250px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16px;
+}
+
+.leave-info {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.leave-info h2 {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 600;
+  color: #111827;
+}
+
+.leave-info p {
+  margin-top: 4px;
+  font-size: 13px;
+  color: #6b7280;
+}
+
+.content {
+  padding: 20px;
+}

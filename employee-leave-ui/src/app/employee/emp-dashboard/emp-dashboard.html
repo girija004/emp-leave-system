@@ -1,0 +1,85 @@
+<mat-sidenav-container class="container">
+
+
+  <mat-sidenav mode="side" opened>
+
+
+    <div class="profile">
+      <mat-icon class="profile-icon">account_circle</mat-icon>
+      <div class="profile-name">{{userEmail()}}</div>
+    </div>
+
+    <mat-nav-list>
+
+      <a mat-list-item
+         (click)="showView('balances')"
+         [class.active]="currentView() === 'balances'">
+        <mat-icon>donut_large</mat-icon>
+        Leave Balances
+      </a>
+
+      <a mat-list-item
+         (click)="showView('apply')"
+         [class.active]="currentView() === 'apply'">
+        <mat-icon>event_available</mat-icon>
+        Apply Leave
+      </a>
+
+      <a mat-list-item
+         (click)="showView('leavecalender')"
+         [class.active]="currentView() === 'leavecalender'">
+        <mat-icon>edit_calendar</mat-icon>
+        Leave Calendar
+      </a>
+
+    </mat-nav-list>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+
+ 
+    <mat-toolbar>
+      <span>Leave Management System</span>
+    </mat-toolbar>
+
+    <div class="content">
+
+ 
+      @if (currentView ()=== 'balances') {
+        <div class="cards">
+
+          @for (leave of leaves(); track leave.type) {
+            <mat-card class="leave-card">
+
+              <mat-progress-spinner
+                mode="determinate"
+                [value]="leave.progress"
+                diameter="80"
+                strokeWidth="8"
+                color="primary">
+              </mat-progress-spinner>
+
+              <div class="leave-info">
+                <h2>{{ leave.count }}</h2>
+                <p>{{ leave.type }}</p>
+              </div>
+
+            </mat-card>
+          }
+
+        </div>
+      }
+
+
+      @if (currentView() === 'apply') {
+        <app-emp-leaveapply></app-emp-leaveapply>
+      }
+
+      @if (currentView() === 'leavecalender') {
+        <app-emp-leave-calendar></app-emp-leave-calendar>
+      }
+
+    </div>
+
+  </mat-sidenav-content>
+</mat-sidenav-container>

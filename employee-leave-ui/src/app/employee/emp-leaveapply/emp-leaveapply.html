@@ -1,0 +1,117 @@
+<mat-tab-group animationDuration="0ms">
+
+  <mat-tab label="Apply">
+
+    <h3>Apply Leave</h3>
+
+    <form [formGroup]="leaveForm" (ngSubmit)="submit()">
+
+ 
+      <mat-form-field appearance="outline" class="full">
+        <mat-label>Leave Type</mat-label>
+        <mat-select formControlName="leaveType">
+          @for (type of leaveTypes; track type) {
+            <mat-option [value]="type">{{ type }}</mat-option>
+          }
+        </mat-select>
+        @if (leaveForm.get('leaveType')?.touched && leaveForm.get('leaveType')?.invalid) {
+          <mat-error>Leave type is required</mat-error>
+        }
+      </mat-form-field>
+
+
+      <mat-form-field appearance="outline" class="full">
+        <mat-label>From Date</mat-label>
+        <input matInput [matDatepicker]="fromPicker" formControlName="fromDate">
+        <mat-datepicker-toggle matSuffix [for]="fromPicker"></mat-datepicker-toggle>
+        <mat-datepicker #fromPicker></mat-datepicker>
+        @if (leaveForm.get('fromDate')?.touched && leaveForm.get('fromDate')?.invalid) {
+          <mat-error>From date is required</mat-error>
+        }
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="full">
+        <mat-label>To Date</mat-label>
+        <input matInput [matDatepicker]="toPicker" formControlName="toDate">
+        <mat-datepicker-toggle matSuffix [for]="toPicker"></mat-datepicker-toggle>
+        <mat-datepicker #toPicker></mat-datepicker>
+        @if (leaveForm.get('toDate')?.touched && leaveForm.get('toDate')?.invalid) {
+          <mat-error>To date is required</mat-error>
+        }
+      </mat-form-field>
+
+
+      <mat-form-field appearance="outline" class="full">
+        <mat-label>Reason</mat-label>
+        <textarea matInput rows="3" formControlName="reason"></textarea>
+        @if (leaveForm.get('reason')?.touched && leaveForm.get('reason')?.invalid) {
+          <mat-error>Reason is required</mat-error>
+        }
+      </mat-form-field>
+
+      <button mat-raised-button
+              color="primary"
+              type="submit"
+              [disabled]="leaveForm.invalid">
+        Submit
+      </button>
+
+      <button mat-button type="reset">
+        Cancel
+      </button>
+
+    </form>
+  </mat-tab>
+
+
+ <mat-tab label="Pending">
+
+  @if (pendingLeaves.length > 0) {
+
+    @for (l of pendingLeaves; track l.id) {
+      <mat-card class="leave-card">
+        <p><b>{{ l.leaveType }}</b></p>
+        <p>{{ l.fromDate | date }} → {{ l.toDate | date }}</p>
+        <p>
+          Status:
+          <span class="pending">Pending</span>
+        </p>
+      </mat-card>
+    }
+
+  } @else {
+    <p class="empty">No pending requests 🎉</p>
+  }
+
+</mat-tab>
+
+
+  <!-- HISTORY TAB -->
+<mat-tab label="History">
+
+  @if (historyLeaves.length > 0) {
+
+    @for (l of historyLeaves; track l.id) {
+      <mat-card class="leave-card">
+        <p><b>{{ l.leaveType }}</b></p>
+        <p>{{ l.fromDate | date }} → {{ l.toDate | date }}</p>
+
+        <p>
+          Status:
+          <span
+            [class.approved]="l.status === 'Approved'"
+            [class.rejected]="l.status === 'Rejected'">
+            {{ l.status }}
+          </span>
+        </p>
+      </mat-card>
+    }
+
+  } @else {
+    <p class="empty">No leave history yet</p>
+  }
+
+</mat-tab>
+
+
+</mat-tab-group>

@@ -1,0 +1,104 @@
+
+.container {
+  height: 100vh;
+}
+
+
+mat-sidenav {
+  width: 230px;
+  background-color: #1f2937;
+  color: #fff;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0;
+  border-bottom: 1px solid #374151;
+}
+
+.profile-icon {
+  font-size: 48px;
+  color: #9ca3af;
+}
+
+.profile-name {
+  margin-top: 8px;
+  font-weight: 600;
+}
+
+.role {
+  font-size: 12px;
+  color: #9ca3af;
+}
+
+
+mat-nav-list a {
+  color: #e5e7eb;
+}
+
+mat-nav-list a mat-icon {
+  margin-right: 10px;
+}
+
+mat-nav-list a.active {
+  background-color: #374151;
+    font-weight: 400;
+ 
+}
+
+
+mat-toolbar {
+  background: #ffffff;
+  color: #111827;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+
+.content {
+  padding: 20px;
+}
+
+.section-title {
+  margin-bottom: 16px;
+}
+
+
+.request-card {
+  margin-bottom: 16px;
+  padding: 16px;
+}
+
+.request-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.type {
+  margin-left: 10px;
+  font-size: 12px;
+  color: #6b7280;
+}
+
+.status.pending {
+  color: #f59e0b;
+  font-weight: 600;
+}
+
+.request-body {
+  margin-top: 10px;
+  color: #374151;
+}
+
+.actions {
+  margin-top: 12px;
+  display: flex;
+  gap: 10px;
+}
+
+.empty {
+  color: #6b7280;
+  font-style: italic;
+}

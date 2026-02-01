@@ -1,0 +1,66 @@
+.calendar-layout {
+  display: flex;
+  gap: 100px;
+  padding: 20px;
+  max-width: 100%;
+ 
+}
+
+mat-calendar {
+  transform: scale(1.5);  
+  transform-origin: top left;
+}
+
+
+mat-calendar {
+  min-width: 410px;
+  margin-right: 250px;
+}
+
+.leave-approved .mat-calendar-body-cell-content {
+  background-color: #16a34a; 
+  color: #ffffff;
+  border-radius: 50%;
+  font-weight: 600;
+   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
+}
+
+
+.leave-rejected .mat-calendar-body-cell-content {
+  background-color: #dc2626;
+  color: #ffffff;
+  border-radius: 50%;
+  font-weight: 600;
+}
+
+
+.legend {
+  min-width: 180px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+  font-size: 14px;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 8px;
+}
+
+.dot.approved {
+  background-color: #16a34a;
+}
+
+.dot.rejected {
+  background-color: #dc2626;
+}
+
+.dot.available {
+  background-color: #ffffff;
+}

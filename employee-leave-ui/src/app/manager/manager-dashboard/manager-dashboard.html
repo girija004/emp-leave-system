@@ -1,0 +1,77 @@
+<mat-sidenav-container class="container">
+
+  <mat-sidenav mode="side" opened>
+
+    <div class="profile">
+      <mat-icon class="profile-icon">account_circle</mat-icon>
+      <div class="profile-name">{{ userEmail() }}</div>
+      <span class="role">Manager</span>
+    </div>
+
+    <mat-nav-list>
+      <a mat-list-item
+         (click)="showView('approve')"
+         [class.active]="currentView() === 'approve'">
+        <mat-icon>check_circle</mat-icon>
+        Approve Requests
+      </a>
+    </mat-nav-list>
+
+  </mat-sidenav>
+
+  
+  <mat-sidenav-content>
+
+    <mat-toolbar>
+      <span>Manager Dashboard</span>
+    </mat-toolbar>
+
+    <div class="content">
+
+      @if (currentView() === 'approve') {
+
+        <h2 class="section-title">Pending Leave Requests</h2>
+
+        @for (r of requests(); track r.id) {
+          <mat-card class="request-card">
+
+            <div class="request-header">
+              <div>
+                <strong>{{ r.employeeEmail }}</strong>
+                <span class="type">{{ r.leaveType }}</span>
+              </div>
+
+              <span class="status pending">Pending</span>
+            </div>
+
+            <div class="request-body">
+              <p><b>From:</b> {{ r.fromDate | date }}</p>
+              <p><b>To:</b> {{ r.toDate | date }}</p>
+              <p><b>Reason:</b> {{ r.reason }}</p>
+            </div>
+
+            <div class="actions">
+              <button mat-raised-button color="primary"
+                      (click)="decide(r.id, 'Approved')">
+                Approve
+              </button>
+
+              <button mat-raised-button color="warn"
+                      (click)="decide(r.id, 'Rejected')">
+                Reject
+              </button>
+            </div>
+
+          </mat-card>
+        }
+
+        @if (requests().length === 0) {
+          <p class="empty">No pending requests 🎉</p>
+        }
+
+      }
+
+    </div>
+
+  </mat-sidenav-content>
+</mat-sidenav-container>
