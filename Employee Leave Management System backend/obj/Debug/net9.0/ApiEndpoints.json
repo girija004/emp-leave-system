@@ -1,0 +1,95 @@
+[
+  {
+    "ContainingType": "Employee_Leave_Management_System_backend.Controllers.EmpController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Microsoft.AspNetCore.Identity.Data.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Employee_Leave_Management_System_backend.Controllers.LeaveController",
+    "Method": "ApplyLeave",
+    "RelativePath": "api/employee/apply",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Employee_Leave_Management_System_backend.Models.ApplyleaveDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Employee_Leave_Management_System_backend.Controllers.LeaveController",
+    "Method": "GetLeaveCalendar",
+    "RelativePath": "api/employee/calendar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Employee_Leave_Management_System_backend.Controllers.LeaveController",
+    "Method": "GetLeaveBalances",
+    "RelativePath": "api/employee/leave-balances",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Employee_Leave_Management_System_backend.Controllers.LeaveController",
+    "Method": "DecideLeave",
+    "RelativePath": "api/employee/manager/decision/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "decision",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Employee_Leave_Management_System_backend.Controllers.LeaveController",
+    "Method": "GetPendingRequests",
+    "RelativePath": "api/employee/manager/pending-requests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Employee_Leave_Management_System_backend.Controllers.LeaveController",
+    "Method": "GetMyLeaves",
+    "RelativePath": "api/employee/my-leaves",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

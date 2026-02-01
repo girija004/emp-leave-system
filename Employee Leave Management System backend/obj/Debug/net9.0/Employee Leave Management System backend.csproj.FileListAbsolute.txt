@@ -1,0 +1,139 @@
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\appsettings.Development.json
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\appsettings.json
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Employee Leave Management System backend.staticwebassets.endpoints.json
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Employee Leave Management System backend.exe
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Employee Leave Management System backend.deps.json
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Employee Leave Management System backend.runtimeconfig.json
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Employee Leave Management System backend.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Employee Leave Management System backend.pdb
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\MySqlConnector.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\Employee Leave Management System backend.csproj.AssemblyReference.cache
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\Employee Leave Management System backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\Employee Leave Management System backend.AssemblyInfoInputs.cache
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\Employee Leave Management System backend.AssemblyInfo.cs
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\Employee Leave Management System backend.csproj.CoreCompileInputs.cache
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\Employee Leave Management System backend.MvcApplicationPartsAssemblyInfo.cs
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\Employee Leave Management System backend.MvcApplicationPartsAssemblyInfo.cache
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\scopedcss\bundle\Employee Leave Management System backend.styles.css
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\staticwebassets.build.json
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\staticwebassets.development.json
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\Employee.27C7369B.Up2Date
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\Employee Leave Management System backend.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\refint\Employee Leave Management System backend.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\Employee Leave Management System backend.pdb
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\Employee Leave Management System backend.genruntimeconfig.cache
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\obj\Debug\net9.0\ref\Employee Leave Management System backend.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Humanizer.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\System.CodeDom.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\System.Text.Json.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\galaxy\GURU MAHIMA ALEKHA\Employee Leave Management System\Employee Leave Management System backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll

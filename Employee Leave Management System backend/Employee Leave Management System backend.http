@@ -1,0 +1,6 @@
+@Employee_Leave_Management_System_backend_HostAddress = http://localhost:5121
+
+GET {{Employee_Leave_Management_System_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
